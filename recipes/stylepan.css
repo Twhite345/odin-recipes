@@ -1,0 +1,63 @@
+div {
+    border: 5px;
+    border-style: groove;
+    border-color: rgb(197, 68, 68);
+    margin:0 auto;
+    display: block;
+    box-sizing: border-box;
+    height: 855px;
+    width: 800px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color: antiquewhite;
+}
+h1 {
+    text-align: center;
+    margin: 5px auto -10px auto;
+}
+.home{
+    text-align: center;
+}
+img {
+    height: 200px;
+    width: 300px;
+    margin:10px auto;
+    display: block;
+    border: rgb(197, 68, 68);
+    border-style: groove;
+}
+
+.desc {
+    margin:0 auto -10px auto;
+    display: block;
+    text-align: center;
+}
+.ing {
+    margin:-10px auto 10px auto;
+}
+
+
+.steps{
+   margin: 0 auto 10px auto;
+   
+}
+p {
+    text-align: center;
+}
+a {
+     color: black;
+
+}
+ul {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+    font-size: 16px;
+}
+ol{
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+}
